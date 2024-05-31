@@ -1,6 +1,6 @@
 # Lightning Charge
 
-Uma solução imediata para aceitar pagamentos relâmpago, desenvolvida com base no c-lightning. [c-lightning](https://github.com/ElementsProject/lightning).
+Uma solução imediata para aceitar pagamentos rápidos, desenvolvida com base no c-lightning. [c-lightning](https://github.com/ElementsProject/lightning).
 
 - API REST HTTP simples, otimizada para facilidade de integração e facilidade de desenvolvimento. Configuração quase zero.
 
